@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm ChillieSause</h1>
+<h1 align="center">Wassup, 
+  I'm ChillieSause</h1>
 <h3 align="center">A frontend developer from Russia 🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chilliesause&label=Profile%20views&color=0e75b6&style=flat" alt="chilliesause" /> </p>
