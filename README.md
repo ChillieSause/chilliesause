@@ -1,7 +1,7 @@
-<h1 align="center">Wassup, 
-  I'm ChillieSause</h1>
+[![MasterHead](https://giffiles.alphacoders.com/217/217366.gif)](https://giffiles.alphacoders.com/217/217366.gif)
+<h1 align="center">Wassup</h1>
+<h1 align="center">I'm ChillieSause</h1>
 <h3 align="center">A frontend developer from Russia 🇷🇺</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chilliesause&label=Profile%20views&color=0e75b6&style=flat" alt="chilliesause" /> </p>
 
 - 🔭 I’m currently working on **my own portfolio website**
