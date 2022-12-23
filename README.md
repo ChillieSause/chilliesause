@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChillieSause](https://github.com/ChillieSause)
 
-- ⚡ Fun fact: **being horny is cool**
+
 
 <p align="left"></p>
 
